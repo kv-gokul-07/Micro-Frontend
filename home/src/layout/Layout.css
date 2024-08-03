@@ -1,0 +1,5 @@
+.childrenComp {
+    height: calc(100vh - 160px);
+    display: flex;
+    justify-content: center;
+}
